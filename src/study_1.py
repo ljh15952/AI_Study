@@ -9,3 +9,13 @@
 #phython
 #import tensorflow as tf
 #tf.__version__
+
+#터미널 상위폴더 cd .. 
+#최상위 폴더? 모든 파일 .
+
+#주피터 노트북 단축키
+#셀
+#셀 실행 Shift + Enter
+import os
+
+os.getcwd()
