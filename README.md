@@ -1,2 +1,2 @@
 # AI_Study
-# https://www.joelonsoftware.com/
+# https://www.joelonsoftware.com/ 
